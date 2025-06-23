@@ -1,0 +1,33 @@
+Q: What is the Automated Commercial Environment (ACE)?
+A: ACE is a U.S. Customs and Border Protection system for processing imports and exports, providing a single window for trade data submission.
+
+Q: What is a customs broker?
+Tyrif
+A: A customs broker is a licensed professional who helps importers navigate U.S. customs regulations and processes for a fee.
+
+Q: What is the Harmonized Tariff Schedule (HTS)?
+A: The HTS is a system used by CBP to classify imported goods for duty, quota, and statistical purposes, based on the international Harmonized System.
+
+Q: What is a Foreign-Trade Zone (FTZ)?
+A: An FTZ is a secure area under CBP supervision where foreign goods can be stored, processed, or repackaged without immediate customs duties.
+
+Q: What is an Importer Security Filing (ISF)?
+A: An ISF, or "10+2," is a CBP requirement for importers to submit specific cargo data at least 24 hours before a vessel departs for the U.S.
+
+Q: What are antidumping duties?
+A: Antidumping duties are additional tariffs imposed by CBP to counteract foreign goods sold in the U.S. at unfairly low prices.
+
+Q: How does CBP enforce trade laws?
+A: CBP enforces trade laws through inspections, audits, and investigations to prevent illegal imports, forced labor products, and trade fraud.
+
+Q: What is the Entry Summary (CBP Form 7501)?
+A: The Entry Summary is a CBP document filed by importers to report shipment details, including value, classification, and duties owed.
+
+Q: What is the Customs-Trade Partnership Against Terrorism (C-TPAT)?
+A: C-TPAT is a CBP program that enhances supply chain security through partnerships with private companies, offering benefits like reduced inspections.
+
+Q: What are forced labor imports?
+A: Forced labor imports are goods produced with forced labor, which CBP prohibits from entering the U.S. under laws like the Uyghur Forced Labor Prevention Act.
+
+Q: What is a Withhold Release Order (WRO)?
+A: A WRO is issued by CBP to detain imports suspected of being produced with forced labor, pending further investigation.

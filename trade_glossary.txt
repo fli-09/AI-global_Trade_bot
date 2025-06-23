@@ -1,0 +1,29 @@
+Term: Tariff
+Definition: A tax imposed by a government on goods entering or leaving the country, often used to regulate trade or generate revenue.
+
+Term: Free Trade Agreement (FTA)
+Definition: An agreement between countries to reduce or eliminate trade barriers, such as tariffs and quotas, to promote trade.
+
+Term: Bill of Lading
+Definition: A legal document issued by a carrier to a shipper, detailing the type, quantity, and destination of goods being transported.
+
+Term: Incoterms
+Definition: International commercial terms that define the responsibilities of buyers and sellers in international trade transactions.
+
+Term: Letter of Credit
+Definition: A financial document issued by a bank guaranteeing payment to a seller on behalf of a buyer, subject to specified conditions.
+
+Term: Dumping
+Definition: The practice of selling goods in a foreign market at a price below their normal value, often to gain market share.
+
+Term: Countervailing Duties
+Definition: Additional tariffs imposed to offset subsidies provided by a foreign government to its exporters.
+
+Term: Customs Valuation
+Definition: The process of determining the value of imported goods for the purpose of assessing customs duties.
+
+Term: Non-Tariff Barriers
+Definition: Restrictions on trade other than tariffs, such as quotas, embargoes, or technical standards.
+
+Term: Harmonized System (HS) Code
+Definition: An internationally standardized system of names and numbers to classify traded products for customs purposes.

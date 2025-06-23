@@ -1,0 +1,29 @@
+Q: What is an Importer Exporter Code (IEC)?
+A: An IEC is a 10-digit code required for individuals or businesses to undertake import or export activities in India.
+
+Q: How can one apply for an IEC?
+A: An IEC can be applied for online through the DGFT website using the ANF-2A form, along with required documents like PAN and bank details.
+
+Q: What is the Foreign Trade Policy (FTP)?
+A: The FTP is a set of guidelines issued by DGFT to regulate and promote India’s foreign trade, updated every five years.
+
+Q: What is the Export Promotion Capital Goods (EPCG) scheme?
+A: The EPCG scheme allows import of capital goods at zero or reduced customs duty for producing export-oriented goods or services.
+
+Q: What is a Duty Exemption Scheme?
+A: Duty Exemption Schemes allow duty-free import of inputs for export production under schemes like Advance Authorisation.
+
+Q: What is the Merchandise Exports from India Scheme (MEIS)?
+A: MEIS provides incentives to exporters in the form of duty credit scrips to offset import duties on inputs or capital goods.
+
+Q: What is a Status Holder Certificate?
+A: A Status Holder Certificate is issued by DGFT to exporters with significant export performance, granting certain trade privileges.
+
+Q: What is the Advance Authorisation Scheme?
+A: The Advance Authorisation Scheme allows duty-free import of inputs for manufacturing products meant for export.
+
+Q: What are Restricted Items in trade?
+A: Restricted items require a license or permission from DGFT for import or export, such as certain chemicals or wildlife products.
+
+Q: What is the role of DGFT in trade promotion?
+A: DGFT formulates and implements the Foreign Trade Policy, issues licenses, and promotes exports through various incentive schemes.
