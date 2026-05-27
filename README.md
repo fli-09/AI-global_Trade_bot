@@ -1,8 +1,4 @@
-AI-global_Trade_bot
-
-Overview
-
-The AI-global_Trade_bot is an advanced Python-based application designed to streamline global trade analysis and management. This project leverages artificial intelligence to automate tasks such as FAQ database creation, trade data processing, and user feedback analysis. Developed as part of an internship project, it aims to provide a robust tool for trade professionals and enthusiasts to enhance decision-making and operational efficiency.
+An AI-powered chatbot for global trade policy queries — supports multilingual input, FAQ matching, and LLM-based fallback responses. Built with Python, Streamlit, and Hugging Face.
 
 Features
 
